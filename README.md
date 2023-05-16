@@ -1,4 +1,4 @@
-#🏽 Derrick 
+# Derrick 
 
 Hello 👋 I'm Derrick. Transitioning from a successful career as an aircraft mechanic and instructor in the service to the tech world, I bring a wealth of problem-solving skills and first-hand experiences with technology. I am eager to start my new journey as a full-stack software engineer.
 
